@@ -1,0 +1,8 @@
+D:\Programing\CSharpOOPAdvanced\ExercisesIteratorsAndComparators\UnitTestingExersises\Database.tests\bin\Debug\Database.tests.dll
+D:\Programing\CSharpOOPAdvanced\ExercisesIteratorsAndComparators\UnitTestingExersises\Database.tests\bin\Debug\Database.tests.pdb
+D:\Programing\CSharpOOPAdvanced\ExercisesIteratorsAndComparators\UnitTestingExersises\Database.tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Programing\CSharpOOPAdvanced\ExercisesIteratorsAndComparators\UnitTestingExersises\Database.tests\bin\Debug\P01Database.exe
+D:\Programing\CSharpOOPAdvanced\ExercisesIteratorsAndComparators\UnitTestingExersises\Database.tests\bin\Debug\P01Database.pdb
+D:\Programing\CSharpOOPAdvanced\ExercisesIteratorsAndComparators\UnitTestingExersises\Database.tests\obj\Debug\Database.tests.csprojResolveAssemblyReference.cache
+D:\Programing\CSharpOOPAdvanced\ExercisesIteratorsAndComparators\UnitTestingExersises\Database.tests\obj\Debug\Database.tests.dll
+D:\Programing\CSharpOOPAdvanced\ExercisesIteratorsAndComparators\UnitTestingExersises\Database.tests\obj\Debug\Database.tests.pdb
